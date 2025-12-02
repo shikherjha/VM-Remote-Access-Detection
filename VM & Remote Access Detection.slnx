@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="VM &amp; Remote Access Detection.vcxproj" Id="8f5f5794-1212-4dd8-a1ec-74bb127d6688" />
+</Solution>
