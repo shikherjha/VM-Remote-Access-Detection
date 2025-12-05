@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="Getting Processes/Getting Processes.vcxproj" Id="fb920aaa-aca8-4e7b-8e6f-000a27bbe442" />
   <Project Path="VM &amp; Remote Access Detection.vcxproj" Id="8f5f5794-1212-4dd8-a1ec-74bb127d6688" />
 </Solution>
